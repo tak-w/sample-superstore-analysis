@@ -24,3 +24,4 @@ select
   discount_rate
 from
   `sample-superstore-411114.sample_superstore.orders` as o
+;
