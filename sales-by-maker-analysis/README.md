@@ -1,1 +1,1 @@
-前処理とかUDFの説明とか書く
+製品名（product_name）からメーカー名と商品名を分離して抽出するため、BigQueryのJavaScript UDF (f_extract_original_product_name)を利用しています。
