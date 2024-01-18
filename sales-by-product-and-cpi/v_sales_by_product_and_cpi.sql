@@ -32,3 +32,4 @@ from
   on date_trunc(o.order_date, month) = c.month
 order by
   order_month
+;
